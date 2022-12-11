@@ -13,7 +13,7 @@ PR_TICKET = 10.99
 # define global variables
 num_tickets = 0
 subtotal = 0
-sales tax = 0
+sales_tax = 0
 total = 0
 
 ############## define global functions ############
